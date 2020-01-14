@@ -1,0 +1,10 @@
+Chit-chat 1.0 comes with following features.
+- Small talk
+
+Upcoming features:
+- Handling off topic questions
+- Human hand-off
+- Sentimental Analysis
+- UI
+- Time base greet.
+- Calling option.
