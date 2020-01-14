@@ -1,4 +1,4 @@
-Chit-chat 1.0 comes with following features.
+Chit-chat 1.0 comes with following feature.
 - Small talk
 
 Upcoming features:
